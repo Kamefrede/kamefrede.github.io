@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on kamefrede.xyz</title>
+    <link>http://kamefrede.xyz/blog/</link>
+    <description>Recent content in Blogs on kamefrede.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020, Emanuel Ferraz.</copyright>
+    <lastBuildDate>Fri, 20 Nov 2020 19:48:09 +0000</lastBuildDate><atom:link href="http://kamefrede.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Internet</title>
+      <link>http://kamefrede.xyz/hello-internet/</link>
+      <pubDate>Fri, 20 Nov 2020 19:48:09 +0000</pubDate>
+      
+      <guid>http://kamefrede.xyz/hello-internet/</guid>
+      <description>After much delaying, I finally caved in and set up a website for real. This is my 3rd attempt at a website, I think.
+The first attempt went badly since I was trying to minimize the use of Javascript but I still wanted to have fancy animations and navbars and whatnot.
+For my second attempt I realized that I didn&amp;rsquo;t need any of that fanciness and was recommended by my friend Williewillus to check out both Jekyll and Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
